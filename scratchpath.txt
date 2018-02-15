@@ -1,0 +1,15 @@
+# https://learnopengl.com
+
+# installation on ubuntu 17.10
+
+# don't forget to clone recursively 
+git clone --recursive https://github.com/stephane-lb/LearnOpenGL.git
+
+cd LearnOpenGL
+mkdir build
+cd build
+cmake ../.
+make -j8
+
+# as a ide i'm going to use code::blocks
+apt-get install codeblocks -y
