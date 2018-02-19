@@ -15,4 +15,4 @@
 
 
 
-# don't forget to add file via file=>add files the glad.c file
+# don't forget to add file via right mouse click on project then file=>add files the glad.c file
